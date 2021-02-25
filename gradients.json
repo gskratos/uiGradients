@@ -2,6 +2,9 @@
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
+    },{
+        "name": "Omolon2",
+        "colors": ["#ed1c24", "#305fb4", "#ffffff"]
     },
     {
         "name": "Farhan",
